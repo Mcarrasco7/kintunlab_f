@@ -1,0 +1,32 @@
+.simplebar-content-wrapper {
+    background-color: #cef1ff!important;
+}
+
+.wrapper {
+    background-color: #e2f5fc!important;
+}
+
+.side-nav-item a {
+    background-color: #92a2e7!important;
+}
+
+.side-nav-item a:hover {
+    background-color: #627ff2!important;
+}
+
+body[data-leftbar-theme="light"] .side-nav .side-nav-link {
+    color: #425078;
+}
+
+body[data-leftbar-compact-mode="condensed"] {
+    min-height: 100%!important;
+}
+
+.footer {
+    background-color: #fff!important;
+}
+
+.side-nav-second-level li a i,
+.side-nav-second-level li a span {
+    color: #fff !important;
+}
